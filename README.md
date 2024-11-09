@@ -1,6 +1,10 @@
 # Portfolios
 
-Select one of these images, message us with the corresponding number, and view the document for the requirements. [requirements.pdf](https://github.com/user-attachments/files/17686569/requirements.pdf)
+Select one of these images, message us with the corresponding number, and view the document for the requirements. 
+
+# Requirements Document
+
+[View Requirements](https://github.com/user-attachments/files/17686569/requirements.pdf){:target="_blank"}
 
 
 # Gallery
