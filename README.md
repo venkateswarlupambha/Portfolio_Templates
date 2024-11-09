@@ -1,8 +1,8 @@
-# IPortfolios
+# Portfolios
 
 Select one of these images, message us with the corresponding number, and view the document for the requirements.
 
-## Gallery
+# Gallery
 
 ### 1. Fammas (For Business)
 ![Fammas](https://github.com/user-attachments/assets/b4d956e2-b704-4f60-8a7f-88b1df060dd9)  
