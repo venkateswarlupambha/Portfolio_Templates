@@ -1,6 +1,6 @@
-# Image Gallery
+# IPortfolios
 
-This repository contains an image gallery with a collection of different artworks, portfolios, and avatars. Below you can see the images, their names, and a link to the original image.
+Select one of these images, message us with the corresponding number, and view the document for the requirements.
 
 ## Gallery
 
@@ -61,6 +61,86 @@ This repository contains an image gallery with a collection of different artwork
 
 ### 12. Alex Smith
 ![Alex Smith](https://github.com/user-attachments/assets/cda7d75c-743f-4ef7-bc28-df67e3672b47)  
+
+---
+
+### 13. Julia Port Master
+![Julia Port Master](https://github.com/user-attachments/assets/91b035a7-9e6c-410e-9764-a0b005ce5017)  
+
+---
+
+### 14. Jack Portfolio Master
+![Jack Portfolio Master](https://github.com/user-attachments/assets/5241a3ff-d26b-482b-9a17-caacd057cfa4)  
+
+---
+
+### 15. Drew Hays Personal Port
+![Drew Hays Personal Port](https://github.com/user-attachments/assets/32de936a-d144-4905-b0a1-5124b38972e9)  
+
+---
+
+### 16. Annie Master
+![Annie Master](https://github.com/user-attachments/assets/0801ff6a-6a86-42b3-9997-e901f8189881)  
+
+---
+
+### 17. Sivam Gupta Portfolio Main
+![Sivam Gupta Portfolio Main](https://github.com/user-attachments/assets/c8a0aca4-9cb4-4c0c-a4ad-836ebe6d9618)  
+
+---
+
+### 18. Sivam Portfolio Main
+![Sivam Portfolio Main](https://github.com/user-attachments/assets/4a85b924-f98a-4b4b-8c00-4294a939e310)  
+
+---
+
+### 19. Sai Portfolio Code
+![Sai Portfolio Code](https://github.com/user-attachments/assets/743fe932-6ed3-4627-9ed3-6f1d5a292907)  
+
+---
+
+### 20. Resume Portfolio
+![Resume Portfolio](https://github.com/user-attachments/assets/e1107268-aefb-4896-a09f-cb6f082f439f)  
+
+---
+
+### 21. Responsive Portfolio Website Main
+![Responsive Portfolio Website Main](https://github.com/user-attachments/assets/c3de5055-8f84-4d0b-8331-5b96fd7e06ae)  
+
+---
+
+### 22. Responsive Portfolio Website Alexa
+![Responsive Portfolio Website Alexa](https://github.com/user-attachments/assets/f5e62ae4-b5f1-47ca-a8c5-674ee791087a)  
+
+---
+
+### 23. Portfolio Template Main
+![Portfolio Template Main](https://github.com/user-attachments/assets/1f2ae294-767b-4824-ad76-9428543dae6b)  
+
+---
+
+### 24. Portfolio Master
+![Portfolio Master](https://github.com/user-attachments/assets/cd39b6f1-1b4e-440b-bbe9-ea2e190c946c)  
+
+---
+
+### 25. Portfolio 1
+![Portfolio 1](https://github.com/user-attachments/assets/f063c88a-beda-4ad0-a668-d465bca7ef19)  
+
+---
+
+### 26. Pfolio Master
+![Pfolio Master](https://github.com/user-attachments/assets/e3fbfc8d-55a7-4665-8151-5c24e9cfc4d6)  
+
+---
+
+### 27. Particlegrounds Port Main
+![Particlegrounds Port Main](https://github.com/user-attachments/assets/76e89f29-543b-4a80-83c1-6099256f9c71)  
+
+---
+
+### 28. My Port Main
+![My Port Main](https://github.com/user-attachments/assets/28bc38e3-1539-4b40-8395-c26fadec2d4f)  
 
 ---
 
