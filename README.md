@@ -4,7 +4,10 @@ Select one of these images, message us with the corresponding number, and view t
 
 # Requirements Document
 
-[View Requirements](https://github.com/user-attachments/files/17686569/requirements.pdf){:target="_blank"}
+To view the requirements document, click the link below:
+
+[View Requirements Document](https://github.com/user-attachments/files/17686569/requirements.pdf)
+
 
 
 # Gallery
